@@ -18,6 +18,6 @@ powershell.exe -executionPolicy Bypass -file ".\EnableAutoConfig.ps1"
 ```
 
 ## Deployment Notes
-EnableAdal.ps1 needs to be run in the current user context
-EnableAutoConfig.ps1 needs to be run as the system account context
+* EnableAdal.ps1 needs to be run in the current user context
+* EnableAutoConfig.ps1 needs to be run as the system account context
 
